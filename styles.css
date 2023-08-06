@@ -390,6 +390,9 @@ footer input{
     #click:Checked ~ ul li a{
         margin-left: 0px;
     }
+    .contact-address{
+        width: 50%;
+    }
 }
 
 @media (max-width:800px){
@@ -476,6 +479,12 @@ footer input{
       .footer-section{
         flex-wrap: wrap;
     
+      }
+      .services-section{
+        flex-wrap: wrap;
+      }
+      .contact-content {
+        flex-wrap: wrap;
       }
       .foot {
         width: 100%;
